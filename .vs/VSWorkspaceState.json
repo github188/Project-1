@@ -1,0 +1,22 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\actions",
+    "\\src\\app\\server",
+    "\\src\\app\\views",
+    "\\src\\app\\views\\itoss",
+    "\\src\\app\\views\\itoss\\component",
+    "\\src\\app\\views\\itoss\\component\\indexPages",
+    "\\src\\app\\views\\itoss\\component\\indexPages\\department",
+    "\\src\\app\\views\\itoss\\component\\indexPages\\department\\System",
+    "\\src\\app\\views\\itoss\\component\\indexPages\\department\\System\\DataDic",
+    "\\src\\app\\views\\itoss\\component\\indexPages\\department\\System\\Usermanager",
+    "\\src\\app\\views\\itoss\\component\\systemManage",
+    "\\src\\app\\views\\itoss\\component\\systemManage\\userManage",
+    "\\src\\app\\views\\itoss\\page"
+  ],
+  "SelectedNode": "\\src\\app\\views\\itoss\\component\\systemManage\\userManage\\userAddView_desView_form.js",
+  "PreviewInSolutionExplorer": false
+}
